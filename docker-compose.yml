@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+    web:
+        image: "632115033701Phanuwat/Lab13-frontend:latest"
+        ports:
+            - 8001:80
